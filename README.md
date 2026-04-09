@@ -1,0 +1,2 @@
+# Disc_Sensoriamento_Remoto_2026-1
+Disc_Sensoriamento_Remoto_2026-1
