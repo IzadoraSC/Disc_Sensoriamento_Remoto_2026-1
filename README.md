@@ -24,6 +24,7 @@ Sala: Laboratório de Informática (Física) e Sala 02 (Prédio da Matemática e
   - Estudo Dirigido 01: Fuzzo et al. Tendências e padrões de variação em séries temporais de temperatura do ar e
 precipitação na microrregião de Frutal – MG. Revista Brasileira de Geografia. v.17, n.3, p.1977-1991, 2024.
 -  Prova 07/05/2026
-- Aula 4: [Link](https://canva.link/l2wms6jikzmumfd)
-  - Prática 01 - Imagens de Satélite: [Link](https://colab.research.google.com/drive/1Nm5ziXCm8rB4cajfQF5V9XruMMBTGhU5?usp=sharing)
+- Aula 4: [Slides](https://canva.link/l2wms6jikzmumfd)
+  - Prática 01 - Imagens de Satélite: [Link](https://colab.research.google.com/drive/1SeESEhQcJN_GrnKhA4xJUTkIjjUmdB2p?usp=sharing)
+- Aula 5: [Slides]() 
   - Prática 02 - Dados de Temperatura por SR: [Link](https://colab.research.google.com/drive/1VKBU6TLNQ5-K8fYr8_TmwcqIeIXb48wr?usp=sharing)
