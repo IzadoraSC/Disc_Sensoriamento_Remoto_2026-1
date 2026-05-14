@@ -22,8 +22,8 @@ Sala: Laboratório de Informática (Física) e Sala 02 (Prédio da Matemática e
 - Aula 2: [Slides](https://canva.link/5stjbomhkxuhmb3)
 - Aula 3: [Slides](https://canva.link/itzhmjdsyo40won)
   - Estudo Dirigido 01: Fuzzo et al. Tendências e padrões de variação em séries temporais de temperatura do ar e
-precipitação na microrregião de Frutal – MG. Revista Brasileira de Geografia. v.17, n.3, p.1977-1991, 2024.  
--  Prática 01: [Link](https://colab.research.google.com/drive/15VpZlL6_dLQf7ka1rAV8SkM0UhkcnLR6?usp=sharing)
--  Prática 02: [Link](https://colab.research.google.com/drive/1LXCHdXZ5xZrTj_aF1pcvoMr2CTEX2yVH?usp=sharing)
-
+precipitação na microrregião de Frutal – MG. Revista Brasileira de Geografia. v.17, n.3, p.1977-1991, 2024.
 -  Prova 07/05/2026
+- Aula 4: [Link](https://canva.link/l2wms6jikzmumfd)
+  - Prática 01 - Imagens de Satélite: [Link](https://colab.research.google.com/drive/1Nm5ziXCm8rB4cajfQF5V9XruMMBTGhU5?usp=sharing)
+  - Prática 02 - Dados de Temperatura por SR: [Link](https://colab.research.google.com/drive/1VKBU6TLNQ5-K8fYr8_TmwcqIeIXb48wr?usp=sharing)
