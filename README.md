@@ -26,5 +26,5 @@ precipitação na microrregião de Frutal – MG. Revista Brasileira de Geografi
 -  Prova 07/05/2026
 - Aula 4: [Slides](https://canva.link/l2wms6jikzmumfd)
   - Prática 01 - Imagens de Satélite: [Link](https://colab.research.google.com/drive/1SeESEhQcJN_GrnKhA4xJUTkIjjUmdB2p?usp=sharing)
-- Aula 5: [Slides]() 
+- Aula 5-6: [Slides](https://canva.link/yiow04h9t9r7jt3) 
   - Prática 02 - Dados de Temperatura por SR: [Link](https://colab.research.google.com/drive/1VKBU6TLNQ5-K8fYr8_TmwcqIeIXb48wr?usp=sharing)
