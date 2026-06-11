@@ -31,5 +31,7 @@ precipitação na microrregião de Frutal – MG. Revista Brasileira de Geografi
 - Aula 7: [Slides](https://canva.link/p0j6aj3at56834y)
   - Estudo Dirigido 02 (2ª nota): Ceballos J. C., Negri R. G. Classificação de Imagens GOES (Imager e ABI) na DISSM/CGCT/INPE: Centróides Associados. 2022.
   - Atividade Avaliativa (2ª nota)
-- Aula 8:
-  - Prática 03 - Imagens de Satélite - GOES:
+- Aula 8: [Slides]()
+  - Prática 03.1 - Imagens de Satélite - GOES: [Link](https://colab.research.google.com/drive/1dobhVPXNslBpEkaDxRIo1dT6S4umVZiy?usp=sharing)
+  - Prática 03.2 - Imagens de Satélite - GOES: [Link](https://colab.research.google.com/drive/1pJGZ4h3O5AxnlX9rXOajiJO-UNDWEEE-?usp=sharing)
+
