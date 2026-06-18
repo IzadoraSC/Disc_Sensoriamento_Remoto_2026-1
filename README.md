@@ -35,4 +35,4 @@ precipitação na microrregião de Frutal – MG. Revista Brasileira de Geografi
   - Prática 03.1 - Imagens de Satélite - GOES: [Link](https://colab.research.google.com/drive/1dobhVPXNslBpEkaDxRIo1dT6S4umVZiy?usp=sharing)
   - Prática 03.2 - Imagens de Satélite - GOES: [Link](https://colab.research.google.com/drive/1pJGZ4h3O5AxnlX9rXOajiJO-UNDWEEE-?usp=sharing)
 - Aula 9: [Slides](https://canva.link/ri17xvnbg0ek7pl)
-  - Atividade Avaliativa - Prática 04 [Link]()
+  - Atividade Avaliativa - Prática 04 [Link](https://drive.google.com/drive/folders/1Gu24pdOSsNVwzok94Nzq89XNrQ8Yl8Sa?usp=drive_link)
